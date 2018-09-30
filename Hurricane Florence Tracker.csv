@@ -1,0 +1,33 @@
+﻿Date,Time,Storm Strength,MPH,,Location,Lat,Long
+9/12/18,5:00 AM,4,130 mph,,Cape Fear,29,70.1
+9/12/18,8:00 AM,4,130 mph,,Cape Fear,29.4,70.7
+9/12/18,11:00 AM,4,130 mph,,Wilmington,29.8,71.3
+9/12/18,2:00 PM,3,125 mph,,Wilmington,30.4,71.8
+9/12/18,5:00 PM,3,120 mph,,Wilmington,30.9,72.5
+9/12/18,8:00 PM,3,115 mph,,Wilmington,31.5,73.2
+9/12/18,11:00 PM,2,110 mph,,Wilmington,32,73.7
+9/13/18,2:00 AM,2,110 mph,,Wilmington,32.5,74.3
+9/13/18,5:00 AM,2,110 mph,,Wilmington,32.8,74.7
+9/13/18,8:00 AM,2,110 mph,,Wilmington,33.1,75.1
+9/13/18,11:00 AM,2,105 mph,,Wilmington,33.4,75.5
+9/13/18,2:00 PM,2,105 mph,,Wilmington,33.6,76
+9/13/18,5:00 PM,2,100 mph,,Wilmington,33.7,76.2
+9/13/18,8:00 PM,2,100 mph,,Wilmington,33.9,76.4
+9/13/18,11:00 PM,1,90 mph,,Morehead City,34,76.8
+9/14/18,2:00 AM,1,90 mph,,Wilmington,34.1,77.2
+9/14/18,5:00 AM,1,90 mph,,Wilmington,34.2,77.4
+9/14/18,8:00 AM,1,90 mph,,Wilmington,34.1,77.9
+9/14/18,11:00 AM,1,80 mph,,Wilmington,34,78
+9/14/18,2:00 PM,1,75 mph,,Wilmington,34,78.4
+9/14/18,5:00 PM,TS,70 mph,,Wilmington,34,78.6
+9/14/18,8:00 PM,TS,70 mph,,Myrtle Beach,33.9,78.8
+9/14/18,11:00 PM,TS,65 mph,,Myrtle Beach,33.8,79.1
+9/15/18,2:00 AM,TS,60 mph,,Myrtle Beach,33.7,79.3
+9/15/18,5:00 AM,TS,50 mph,,Myrtle Beach,33.6,79.5
+9/15/18,8:00 AM,TS,50 mph,,Myrtle Beach,33.6,79.5
+9/15/18,11:00 AM,TS,45 mph,,Myrtle Beach,33.6,79.6
+9/15/18,2:00 PM,TS,45 mph,,Florence ,33.6,79.8
+9/15/18,5:00 PM,TS,45 mph,,Myrtle Beach,33.6,79.9
+9/15/18,8:00 PM,TS,45 mph,,Florence ,33.6,80.1
+9/15/18,11:00 PM,TS,40 mph,,Florence ,33.7,80.5
+9/16/18,2:00 AM,TS,40 mph,,Columbia,33.7,80.8
